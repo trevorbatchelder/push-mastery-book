@@ -1,0 +1,46 @@
+{
+ "name": "The Guide to Push Mastery",
+ "short_name": "Push Mastery",
+ "id": ".",
+ "start_url": ".",
+ "lang": "en",
+ "description": "An interactive, unofficial guide to Ableton Push 3 and Live 12 \u2014 a course, a playable pad grid, workflows and every control.",
+ "display": "standalone",
+ "orientation": "any",
+ "categories": [
+  "education",
+  "music"
+ ],
+ "background_color": "#1e1e1e",
+ "theme_color": "#1e1e1e",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Learn",
+   "url": "./#learn"
+  },
+  {
+   "name": "Pads",
+   "url": "./#pads"
+  },
+  {
+   "name": "Workflows",
+   "url": "./#workflows"
+  },
+  {
+   "name": "Controls",
+   "url": "./#controls"
+  }
+ ]
+}
